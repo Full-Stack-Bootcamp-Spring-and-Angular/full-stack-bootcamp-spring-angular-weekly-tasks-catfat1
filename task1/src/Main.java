@@ -15,14 +15,14 @@ public class Main {
         double radius=scanner.nextDouble();
         circle.setRadius(radius);
         double circleArea=circle.getArea();
-        System.out.println("the area is :" +circleArea);
+        System.out.println(String.format("The area is :%.2f", circleArea));
 
 
         System.out.println("Enter Square Side: ");
         double side=scanner.nextDouble();
         square.setSide(side);
         double squareArea= square.getArea();
-        System.out.println("the area is :" +squareArea);
+        System.out.println(String.format("The area is : %.2f",squareArea));
 
 
 
