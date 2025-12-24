@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+
+    <context:property-placeholder location="classpath:application.property"/>
+
+    <bean id="databaseOperation" class="app.DI.DatabaseOperation">
+        <property name="url" value="${database.url}"/>
+        <property name="username" value="${database.username}"/>
+        <property name="password" value="${database.password}"/>
+    </bean>
+
+
+    <!--from constructor -->
+    <bean id="car" class="app.DI.Car">
+        <constructor-arg ref="databaseOperation"/>
+    </bean>
+
+    <!--from file -->
+    <bean id="plane" class="app.DI.Plane">
+        <constructor-arg ref="databaseOperation"/>
+    </bean>
+
+
+
+
+    <!-- Draw Beans -->
+    <bean id="draw2d" class="com.DI.Draw2d"/>
+    <bean id="draw3d" class="com.DI.Draw3d"/>
+
+    <!-- Circle - Constructor Injection -->
+    <bean id="circle" class="com.DI.Circle">
+        <constructor-arg ref="draw2d"/>
+    </bean>
+    <bean id="square" class="com.DI.Square">
+        <!--namemean that the setter name   setDraw3d-->
+        <property name="draw2d" ref="draw2d"/>
+
+    </bean>
+
+
+</beans>
+
+
+
+
+
