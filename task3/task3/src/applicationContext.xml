@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans.xsd http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
+
+    <!-- Draw Beans -->
+    <bean id="draw2d" class="beanScops.Draw2d"/>
+    <bean id="draw3d" class="beanScops.Draw3d"/>
+    <!-- Circle - Constructor Injection -->
+    <bean id="circleSingleTone" class="beanScops.Circle"   scope="singleton">
+        <constructor-arg ref="draw2d"/>
+        <constructor-arg ref="draw3d"/>
+    </bean>
+    <bean id="circlePrototype" class="beanScops.Circle"   scope="prototype">
+        <constructor-arg ref="draw2d"/>
+        <constructor-arg ref="draw3d"/>
+    </bean>
+    <bean id="square" class="beanScops.Square">
+        <!--namemean that the setter name   setDraw3d    property in setter injection-->
+        <property name="draw2d" ref="draw2d"/>
+        <property name="draw3d" ref="draw3d"/>
+    </bean>
+
+
+    <!--task2 define init and destroy make mix bean between init and destroy -->
+    <bean id="intDestoy"
+          class="beanInitDestroy.DatabaseOperations"
+          init-method="connectToDatabase"
+          destroy-method="disconnectFromDatabase">
+    </bean>
+</beans>
+
+
+
+
+
