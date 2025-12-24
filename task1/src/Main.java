@@ -1,3 +1,4 @@
+package com.app;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import java.util.Scanner;
@@ -22,6 +23,7 @@ public class Main {
         double side=scanner.nextDouble();
         square.setSide(side);
         double squareArea= square.getArea();
+        // System.out.println("the area is :" +squareArea);
         System.out.println(String.format("The area is : %.2f",squareArea));
 
 
