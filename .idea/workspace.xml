@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bd8be8d0-3b76-46e4-830e-27f397e49179" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/task3/task3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanInitDestroy/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanInitDestroy/DatabaseOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanInitDestroy/Draw2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanInitDestroy/Draw3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanInitDestroy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanInitDestroy/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanInitDestroy/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanScops/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanScops/Draw2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanScops/Draw3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanScops/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanScops/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/src/beanScops/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/task3/task3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/.idea/libraries/antlr_2_7_7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/.idea/libraries/drive_download_20251216T171136Z_1_001.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/classmate-1.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/dom4j-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/hibernate-commons-annotations-5.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/hibernate-core-5.2.18.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/hibernate-jpa-2.1-api-1.0.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/jandex-2.0.3.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/javassist-3.22.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/javax.servlet-api-4.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/javax.servlet.jsp.jstl-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/javax.servlet.jsp.jstl-api-1.2.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/jboss-logging-3.3.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/jboss-transaction-api_1.2_spec-1.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/lombok.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-aop-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-aop-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-aop-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-aspects-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-aspects-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-aspects-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-beans-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-beans-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-beans-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-indexer-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-indexer-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-indexer-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-support-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-support-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-context-support-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-core-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-core-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-expression-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-expression-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-expression-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-instrument-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-instrument-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-instrument-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jcl-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jcl-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jcl-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jdbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jdbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jms-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jms-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-jms-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-messaging-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-messaging-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-orm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-orm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-orm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-oxm-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-oxm-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-oxm-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-r2dbc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-r2dbc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-r2dbc-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-test-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-test-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-tx-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-web-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-webflux-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-webmvc-5.3.9-javadoc.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-webmvc-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-websocket-5.3.9-sources.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/libs/drive-download-20251216T171136Z-1-001/spring-websocket-5.3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanInitDestroy/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanInitDestroy/DatabaseOperations.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanInitDestroy/Draw2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanInitDestroy/Draw3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanInitDestroy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanInitDestroy/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanInitDestroy/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanScops/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanScops/Draw2d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanScops/Draw3d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanScops/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanScops/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/src/beanScops/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/untitled/task3.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;catfat1&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Full-Stack-Bootcamp-Spring-and-Angular/full-stack-bootcamp-spring-angular-weekly-tasks-catfat1&quot;,
+    &quot;accountId&quot;: &quot;b370e976-bea0-444c-9fec-6bcdb385a109&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="374rQMeYmu3IEHI16451EHqe5Ku" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "ttask3",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/javaCourse/tasks/full-stack-bootcamp-spring-angular-weekly-tasks-catfat1/task3/task3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaCourse\tasks\full-stack-bootcamp-spring-angular-weekly-tasks-catfat1\task3\task3" />
+      <recent name="D:\javaCourse\tasks\full-stack-bootcamp-spring-angular-weekly-tasks-catfat1\task1\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\javaCourse\tasks\full-stack-bootcamp-spring-angular-weekly-tasks-catfat1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd8be8d0-3b76-46e4-830e-27f397e49179" name="Changes" comment="" />
+      <created>1766173172837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1766173172837</updated>
+      <workItem from="1766173178916" duration="969000" />
+      <workItem from="1766231131805" duration="356000" />
+      <workItem from="1766594225394" duration="216000" />
+      <workItem from="1766594652682" duration="243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
