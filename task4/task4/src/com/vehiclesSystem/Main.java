@@ -39,6 +39,8 @@ public class Main {
         dao.saveVehicle(car);
 
 
+        container.close();
+
 
 
     }
