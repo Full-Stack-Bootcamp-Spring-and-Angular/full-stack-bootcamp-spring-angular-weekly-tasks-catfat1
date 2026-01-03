@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <javadoc-paths>
+      <root url="file://$MODULE_DIR$/libs/drive-download-20251216T171136Z-1-001" />
+      <root url="file://$MODULE_DIR$/../../../../heba/dbconnection/dataBaseConnection/libs" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-j-9.5.0/mysql-connector-j-9.5.0" />
+    </javadoc-paths>
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="drive-download-20251216T171136Z-1-001" level="project" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/lombok-1.18.42.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="mysql-connector-j-9.5" level="project" />
+  </component>
+</module>
