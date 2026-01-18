@@ -1,27 +1,28 @@
 package com.vehiclesSystem;
+
+
+import com.vehiclesSystem.Enum.vehicleType;
 import com.vehiclesSystem.config.Config;
+import com.vehiclesSystem.controller.BikeController;
 import com.vehiclesSystem.dao.DatabaseOperation;
 import com.vehiclesSystem.models.Bike;
-import com.vehiclesSystem.models.Car;
-import com.vehiclesSystem.models.Plane;
-import com.vehiclesSystem.models.vehicleType;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-
-
 
 public class Main {
     public static void main(String[] args) {
-        AnnotationConfigApplicationContext container =
+       AnnotationConfigApplicationContext container =
                 new AnnotationConfigApplicationContext(Config.class);
 
-        DatabaseOperation dao = container.getBean(DatabaseOperation.class);
+        BikeController bikeController = container.getBean(BikeController.class);
+      /*  DatabaseOperation dao = container.getBean(DatabaseOperation.class);
 
         Bike bike = container.getBean(Bike.class);
-        bike.setId(1000);
+        bike.setId(1070);
         bike.setModel("bike_model");
         bike.setType(vehicleType.bike);
-        dao.saveVehicle(bike);
-
+        dao.saveVehicle(bike);*/
+/*
+x
 
 
         Plane plane = container.getBean(Plane.class);
@@ -39,9 +40,9 @@ public class Main {
         dao.saveVehicle(car);
 
 
+        container.close();*/
+
         container.close();
-
-
 
     }
 }
